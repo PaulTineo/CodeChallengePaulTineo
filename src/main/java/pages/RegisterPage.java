@@ -60,7 +60,6 @@ public class RegisterPage extends BasePage {
         this.password.sendKeys(password);
         this.confirmPassword.sendKeys(confirmPassword);
 
-
     }
 
     public void clickRegisterButton(){
